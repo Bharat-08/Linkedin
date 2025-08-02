@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.DS_Store
+
+# A file for your secret API keys
+config.js

@@ -1,0 +1,435 @@
+<section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="yUgSJmZKymtQqLxXIoRXNAkPqCHAFkA">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="uMbtWOVBRLdJJQjzGYYXOlJwxuwHwadBU">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="artdeco-list__item DfcYTiWZgggKYDBOPCMBHbjmuKrlQqGdxwg wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+<!---->    <div class="diKUeYidrhUCtDKKUCwLGQhrLXbYwikS
+        dIcsSkWdMJrNckhcFbVOhHsPFZXBBJdLEk XRHBwSCYOStUvjwGFlHDMwAPcxtKZYPgtDWuQ
+        
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a class="optional-action-target-wrapper 
+            
+            pvs-entity__image-container--outline-offset
+            display-flex" target="_self" href="https://www.linkedin.com/company/157273/">
+              
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/v2/D4D0BAQHpEb4bqtZO3A/company-logo_100_100/B4DZfPBXbTG8AU-/0/1751524931742/indian_institute_of_management_bangalore_logo?e=1756944000&amp;v=beta&amp;t=Ovujki6wjYePKOs86xuErHXqh94hD6EKSyGg9xCdlRE" loading="lazy" height="48" alt="Indian Institute of Management Bangalore logo" id="ember305" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column align-self-center flex-grow-1">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/157273/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Indian Institute of Management Bangalore<!----></span><span class="visually-hidden"><!---->Indian Institute of Management Bangalore<!----></span>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Master of Business Administration - MBA<!----></span><span class="visually-hidden"><!---->Master of Business Administration - MBA<!----></span>
+                </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->2020 - 2022<!----></span><span class="visually-hidden"><!---->2020 - 2022<!----></span>
+              </span>
+<!---->          </a>
+  
+        </div>
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk pvs-entity__sub-components">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="pvs-list__item--with-top-padding wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          
+      <div class="bwOHdAYzIUDzsaVFXcfUFKXILjiIXaUw
+          full-width t-14 t-normal t-black display-flex align-items-center" dir="ltr">
+        
+    <div class="KZpoURgJIBLUFqRJwxbsiSDzWwwvkhySSsdXM
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         full-width" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+        <span aria-hidden="true"><!---->1. Teaching Assistant , 1 of 525+, Decision Science,tutored 150+ students over 8+sessions IIMB'21<!----><br><!---->2. Sr. Coordinator ,Sigma–The PM &amp; Tech Club,1/15 of 520+,conducted PM mock interviews,footfall 100+,IIMB'21<!----><br><!---->3. Controller, Finals Facilitation Team, 1/8 volunteers, managed portal, placed 300+, 80+ companies IIMB'21<!----><br><!---->4. Mentor, WAT/PI CAT'20 &amp; SOP prep., guided 3 IIMB aspirants, shared key insights, experiences, IIMB'21<!----></span><span class="visually-hidden"><!---->1. Teaching Assistant , 1 of 525+, Decision Science,tutored 150+ students over 8+sessions IIMB'21
+2. Sr. Coordinator ,Sigma–The PM &amp; Tech Club,1/15 of 520+,conducted PM mock interviews,footfall 100+,IIMB'21
+3. Controller, Finals Facilitation Team, 1/8 volunteers, managed portal, placed 300+, 80+ companies IIMB'21
+4. Mentor, WAT/PI CAT'20 &amp; SOP prep., guided 3 IIMB aspirants, shared key insights, experiences, IIMB'21<!----></span>
+
+          <span class="inline-show-more-text__link-container-collapsed">
+<!---->            <button class="inline-show-more-text__button
+                inline-show-more-text__button--light
+                link" aria-expanded="false" role="button" type="button">
+              …see more
+            </button>
+          </span>
+
+<!---->    </div>
+  
+      </div>
+  
+<!---->      
+      </div>
+      
+    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+            </li>
+            <li class="wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="pvs-list__item--with-top-padding wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="
+        mv1
+        display-flex align-items-center">
+        
+        <a data-field="education_contextual_skills_see_details" class="optional-action-target-wrapper display-flex link-without-hover-visited" target="_self" href="https://www.linkedin.com/in/shailesh-sharma/overlay/urn:li:fsd_profileEducation:(ACoAABfqklgBgcc64-Cy-NOqW9irfxS3RrjBeAc,667558758)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAABfqklgBgcc64-Cy-NOqW9irfxS3RrjBeAc">
+            <div class="mr1
+                mv1
+                
+                ">
+              
+    <ul class="ivm-entity-pile
+        display-flex align-items-center t-black">
+        <li class="ivm-entity-pile__img-item--stacked">
+            
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <svg role="none" aria-hidden="true" class="ivm-view-attr__icon ivm-view-attr__icon--icon  " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="skills-small">
+<!---->    
+    <use href="#skills-small" width="16" height="16"></use>
+</svg>
+
+    </div>
+  
+        </li>
+    </ul>
+  
+            </div>
+            
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="hoverable-link-text display-flex align-items-center
+              t-14 t-normal t-black">
+            <strong><!---->R and Management<!----></strong>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+        </a>
+  
+
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+<!---->
+<!---->    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item DfcYTiWZgggKYDBOPCMBHbjmuKrlQqGdxwg wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+<!---->    <div class="diKUeYidrhUCtDKKUCwLGQhrLXbYwikS
+        dIcsSkWdMJrNckhcFbVOhHsPFZXBBJdLEk XRHBwSCYOStUvjwGFlHDMwAPcxtKZYPgtDWuQ
+        
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a class="optional-action-target-wrapper 
+            
+            pvs-entity__image-container--outline-offset
+            display-flex" target="_self" href="https://www.linkedin.com/company/157268/">
+              
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/v2/C510BAQEhNteRFbyBdQ/company-logo_100_100/company-logo_100_100/0/1630585318049/indian_institute_of_technology_kanpur_logo?e=1756944000&amp;v=beta&amp;t=NuDk7Ci1iIBo348GvQMK3Hszv9JMAsFSlFDpqGplvdU" loading="lazy" height="48" alt="Indian Institute of Technology, Kanpur logo" id="ember312" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column align-self-center flex-grow-1">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/157268/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Indian Institute of Technology, Kanpur<!----></span><span class="visually-hidden"><!---->Indian Institute of Technology, Kanpur<!----></span>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Bachelor's degree, Electrical and Electronics Engineering<!----></span><span class="visually-hidden"><!---->Bachelor's degree, Electrical and Electronics Engineering<!----></span>
+                </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->2013 - 2017<!----></span><span class="visually-hidden"><!---->2013 - 2017<!----></span>
+              </span>
+<!---->          </a>
+  
+        </div>
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk pvs-entity__sub-components">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="pvs-list__item--with-top-padding wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          
+      <div class="bwOHdAYzIUDzsaVFXcfUFKXILjiIXaUw
+          full-width t-14 t-normal t-black display-flex align-items-center" dir="ltr">
+        
+    <div class="KZpoURgJIBLUFqRJwxbsiSDzWwwvkhySSsdXM
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         full-width" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+        <span aria-hidden="true"><!---->Best Project , 1 of 80+ , Spiral pump cum windmill, design and fabrication in Manufacturing, IITK'14<!----></span><span class="visually-hidden"><!---->Best Project , 1 of 80+ , Spiral pump cum windmill, design and fabrication in Manufacturing, IITK'14<!----></span>
+
+<!---->    </div>
+  
+      </div>
+  
+<!---->      
+      </div>
+      
+    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+            </li>
+            <li class="wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="pvs-list__item--with-top-padding wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="
+        mv1
+        display-flex align-items-center">
+        
+        <a data-field="education_contextual_skills_see_details" class="optional-action-target-wrapper display-flex link-without-hover-visited" target="_self" href="https://www.linkedin.com/in/shailesh-sharma/overlay/urn:li:fsd_profileEducation:(ACoAABfqklgBgcc64-Cy-NOqW9irfxS3RrjBeAc,263204230)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAABfqklgBgcc64-Cy-NOqW9irfxS3RrjBeAc">
+            <div class="mr1
+                mv1
+                
+                ">
+              
+    <ul class="ivm-entity-pile
+        display-flex align-items-center t-black">
+        <li class="ivm-entity-pile__img-item--stacked">
+            
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <svg role="none" aria-hidden="true" class="ivm-view-attr__icon ivm-view-attr__icon--icon  " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="skills-small">
+<!---->    
+    <use href="#skills-small" width="16" height="16"></use>
+</svg>
+
+    </div>
+  
+        </li>
+    </ul>
+  
+            </div>
+            
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="hoverable-link-text display-flex align-items-center
+              t-14 t-normal t-black">
+            <strong><!---->C, R and +1 skill<!----></strong>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+        </a>
+  
+
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+<!---->
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+<!---->        
+</section>

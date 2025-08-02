@@ -1,0 +1,245 @@
+<section class="artdeco-card pv-profile-card break-words
+            
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+<!---->            
+          
+<!---->
+    <div class="yUgSJmZKymtQqLxXIoRXNAkPqCHAFkA">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="uMbtWOVBRLdJJQjzGYYXOlJwxuwHwadBU">
+<!---->              <h2 class="pvs-header__title
+                  
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="artdeco-list__item DfcYTiWZgggKYDBOPCMBHbjmuKrlQqGdxwg wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+<!---->    <div class="diKUeYidrhUCtDKKUCwLGQhrLXbYwikS
+        dIcsSkWdMJrNckhcFbVOhHsPFZXBBJdLEk XRHBwSCYOStUvjwGFlHDMwAPcxtKZYPgtDWuQ
+        
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a class="optional-action-target-wrapper 
+            
+            pvs-entity__image-container--outline-offset
+            display-flex" target="_self" href="https://www.linkedin.com/company/485592/">
+              
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/v2/C560BAQEHtx1U87kUjA/company-logo_100_100/company-logo_100_100/0/1645923773036?e=1756944000&amp;v=beta&amp;t=QFKupi3ToGq5uK5LWWUWh6v1_465-kQ88dpvUUYIplA" loading="lazy" height="48" alt="Thapar Institute of Engineering &amp; Technology logo" id="ember259" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column align-self-center flex-grow-1">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/485592/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Thapar Institute of Engineering &amp; Technology<!----></span><span class="visually-hidden"><!---->Thapar Institute of Engineering &amp; Technology<!----></span>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Bachelor of Engineering - BE, Computer Engineering<!----></span><span class="visually-hidden"><!---->Bachelor of Engineering - BE, Computer Engineering<!----></span>
+                </span>
+              <span class="t-14 t-normal
+                  t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->May 2023 - May 2026<!----></span><span class="visually-hidden"><!---->May 2023 - May 2026<!----></span>
+              </span>
+<!---->          </a>
+  
+        </div>
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk pvs-entity__sub-components">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="pvs-list__item--with-top-padding wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          
+      <div class="bwOHdAYzIUDzsaVFXcfUFKXILjiIXaUw
+          full-width t-14 t-normal t-black display-flex align-items-center" dir="ltr">
+        
+    <div class="KZpoURgJIBLUFqRJwxbsiSDzWwwvkhySSsdXM
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+         full-width" style="-webkit-line-clamp:2;" dir="ltr" tabindex="-1">
+
+        <span aria-hidden="true"><!---->Relevant Coursework: Data Structures &amp; Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems.<!----><br><br><!---->Key Projects: Developed 'VidConnect', a real-time video chat application using WebRTC and Node.js.<!----><br><br><!---->Actively involved in competitive programming, achieving ICPC Regionalist qualification and Expert rank on Codeforces.<!----></span><span class="visually-hidden"><!---->Relevant Coursework: Data Structures &amp; Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems.
+
+Key Projects: Developed 'VidConnect', a real-time video chat application using WebRTC and Node.js.
+
+Actively involved in competitive programming, achieving ICPC Regionalist qualification and Expert rank on Codeforces.<!----></span>
+
+          <span class="inline-show-more-text__link-container-collapsed">
+<!---->            <button class="inline-show-more-text__button
+                inline-show-more-text__button--light
+                link" aria-expanded="false" role="button" type="button">
+              …see more
+            </button>
+          </span>
+
+<!---->    </div>
+  
+      </div>
+  
+<!---->      
+      </div>
+      
+    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+            </li>
+            <li class="wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="SiHHfBkeQimhRRwQaaVpEVgBoCxWiTkPnlqUk">
+<!---->        <ul class="EsMHSKdIKNfluundNhfVemGLRLThPKbEtNE
+            
+            
+            ">
+            <li class="pvs-list__item--with-top-padding wwlIEXmjuzbWzjrUfSPxxpmcTOzsRavuZJLs">
+              
+          
+    <div class="
+        mv1
+        display-flex align-items-center">
+        
+        <a data-field="education_contextual_skills_see_details" class="optional-action-target-wrapper display-flex link-without-hover-visited" target="_self" href="https://www.linkedin.com/in/bharat-bhushan01/overlay/urn:li:fsd_profileEducation:(ACoAAEgsEZABDObR7WHc4VFmFr5qcYMzse1jBpE,1107029969)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAEgsEZABDObR7WHc4VFmFr5qcYMzse1jBpE">
+            <div class="mr1
+                mv1
+                
+                ">
+              
+    <ul class="ivm-entity-pile
+        display-flex align-items-center t-black">
+        <li class="ivm-entity-pile__img-item--stacked">
+            
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <svg role="none" aria-hidden="true" class="ivm-view-attr__icon ivm-view-attr__icon--icon  " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="skills-small">
+<!---->    
+    <use href="#skills-small" width="16" height="16"></use>
+</svg>
+
+    </div>
+  
+        </li>
+    </ul>
+  
+            </div>
+            
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="hoverable-link-text display-flex align-items-center
+              t-14 t-normal t-black">
+            <strong><!---->Data Structures and Algorithms, Object-Oriented Programming (OOP) and +6 skills<!----></strong>
+          </div>
+<!---->      
+      </div>
+      
+    </div>
+  
+        </a>
+  
+
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+<!---->
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+<!---->        
+</section>

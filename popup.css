@@ -1,0 +1,118 @@
+/* --- Base and Layout --- */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    width: 280px;
+    background-color: #f4f6f8;
+    color: #333;
+}
+
+.container {
+    padding: 15px;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #e1e4e8;
+    padding-bottom: 10px;
+}
+
+.logo {
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+}
+
+h1 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #0a66c2; 
+    margin: 0;
+}
+
+
+.cta-button {
+    background-color: #0a66c2;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: 600;
+    width: 100%;
+    cursor: pointer;
+    margin-bottom: 15px;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.cta-button:hover {
+    background-color: #004182; 
+}
+
+.cta-button:disabled {
+    background-color: #a0b4c8;
+    cursor: not-allowed;
+}
+
+
+#status-container {
+    background-color: #ffffff;
+    border: 1px solid #d1d5da;
+    border-radius: 8px;
+    padding: 20px;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+#status-message {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 500;
+    color: #24292e;
+}
+
+
+#status-message.success {
+    color: #22863a;
+    font-weight: 600;
+}
+
+#status-message.error {
+    color: #cb2431; 
+    font-weight: 600;
+}
+
+
+
+.loader {
+    border: 4px solid #f3f3f3; 
+    border-top: 4px solid #0a66c2; 
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+
+
+.footer {
+    margin-top: 15px;
+}
+
+.footer p {
+    font-size: 11px;
+    color: #6a737d;
+    margin: 0;
+}
